@@ -1,0 +1,167 @@
+@charset "utf-8";
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei UI", "Microsoft YaHei", SimHei, "\5B8B\4F53", simsun, sans-serif;
+	color: #666;
+}
+.navbar-header a{
+	padding: 0;
+}
+#navbar-collapse ul{
+	margin-top: 0;
+}
+#carousel-example-generic {
+	margin: 50px 0 0 0;
+}
+.carousel-inner img{
+	margin: 0 auto;
+}
+.tab1{
+	margin: 30px 0;
+	color: #666;
+}
+.tab-h2{
+	font-size: 30px;
+	text-align: center;
+	color: #0059b2;
+	letter-spacing: 1px;
+}
+.tab-p{
+	font-size: 18px;
+	text-align: center;
+	color: #999;
+	margin: 20px 0 40px 0;
+	letter-spacing: 1px;
+}
+.tab1 .text-muted{
+	text-decoration: line-through;
+	color: #999;
+}
+.tab1 .col{
+	padding: 20px;
+}
+.tab1 .media-heading {
+	margin: 5px 0 20px 0;
+}
+.tab2 {
+	background-color: #eee;
+	padding: 60px 20px;
+	text-align: center;
+}
+.tab2 img {
+	width: 40%;
+	height: 40%;
+}
+.text h3 {
+	font-size: 26px;
+}
+.text p {
+	font-size: 18px;
+}
+.tab2-img{
+	float: right;
+}
+.tab2-text{
+	float: left;
+}
+.tab3{
+	padding: 60px 20px;
+	text-align: center;
+}
+.tab3 img{
+	width: 65%;
+	height:65%;
+}
+#footer{
+	background-color: #666;
+	text-align: center;
+	padding: 20px;
+	border-top: 1px solid #ccc;
+	color:#eee;
+}
+.jumbotron{
+	background-image: url(../img/bg.jpg);
+	color: #ccc!important;
+	margin: 50px 0 0 0!important;
+}
+.jumbotron .container h1{
+	font-size: 36px;
+	padding: 0 0 0 20px;
+}
+.jumbotron .container h4{
+	font-size: 18px;
+	padding: 0 0 0 20px;
+}
+#information{
+	background-color: #eee;
+	padding: 40px 0;
+}
+.info-content{
+	background-color: #fff;
+	margin: 0 0 20px 0;
+	box-shadow: 2px 2px 3px #ccc;
+	color: #666666;
+}
+.info-content img{
+	margin: 12px 0;
+}
+.info-content h4 {
+	color: #333;
+	padding: 2px 0 0 0;
+	font-size: 20px;
+}
+.info-content p {
+	line-height: 1.6;
+}
+.info-right{
+	background-color: #fff;
+	box-shadow: 2px 2px 3px #ccc;
+}
+.info-right blockquote {
+	margin: 0;
+	padding: 0;
+}
+.info-right h2 {
+	font-size: 20px;
+	color: #333;
+	padding: 5px;
+}
+.info-right h4 {
+	color: #333;
+	font-size: 16px;
+	padding: 2px 0 0 0;
+	line-height: 1.6;
+}
+#case{
+	padding: 40px 0;
+	background-color: #eee;
+	text-align: center;
+}
+#case h4 {
+	color: #666;
+}
+#case p {
+	color: #666;
+	line-height: 1.6;
+}
+#about{
+	background-color: #eee;
+	padding: 40px 15px;
+}
+#about a{
+	color: #0059b2;
+}
+#about .about {
+	background-color: #fff;
+	box-shadow: 2px 2px 3px #ccc;
+}
+#about h3 {
+	color: #333;
+	font-size: 22px;
+	border-bottom: 1px solid #eee;
+	padding: 20px 0;
+	margin: 0 0 10px 0;
+}
+#about p {
+	line-height: 2;
+	font-size: 16px;
+}
